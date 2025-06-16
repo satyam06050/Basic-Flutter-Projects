@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1002599316466",
+    "project_id": "insta-ui-30961",
+    "storage_bucket": "insta-ui-30961.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002599316466:android:ffb73160b1f69eb284496b",
+        "android_client_info": {
+          "package_name": "com.example.insta_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002599316466-cdpec37i8pdgtt4m2kojpm1ce41vh3ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insta_ui",
+            "certificate_hash": "976f2eff328e76353880e12dd3dcc64b5c01ed5a"
+          }
+        },
+        {
+          "client_id": "1002599316466-6nrln8lqbilinag560340u501j3qe6p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9LdNtsfMMZRbFoTYVo3iOayKE6Kn-p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002599316466-6nrln8lqbilinag560340u501j3qe6p9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002599316466-l7qgeft34dr9jo41cm6a53bjhurekb7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instaUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
