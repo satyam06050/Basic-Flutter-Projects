@@ -33,6 +33,5 @@ Here’s how the UI looks in action:
 - Android Studio or VS Code
 - A connected device or emulator
 
-### Run Locally
 
 
